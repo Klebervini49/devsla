@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto consiste na criação de uma landing page de um blog.
+Projeto realizado durante o curso da b7web de html e css. 
 
 ## :memo: Licença
 
